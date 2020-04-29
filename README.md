@@ -46,3 +46,7 @@
 ## To-DO
 
 * Make a Desktop Verison of This Game
+* Let People Create an Account and Save Their Score
+* Let People Become friends and let them compete against each other
+* Make a Multi-Player Verison - Where people can be on different devices and play with 1+ friends. 
+* Make a Mobile Verison of This Game
