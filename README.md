@@ -9,7 +9,7 @@
 	      `-...-'                                                  
 
 
-	         Developed by: Zi Wang (ziw), Bingying Xia (bxia)
+	         Developed by: Roshan Lamichhane
 
 
 
