@@ -8,6 +8,19 @@
     <body>
         <canvas id="myCanvas" width="510" height="510">
         </canvas>
+        
+        <script>
+function resize(){    
+    $("#canvas").outerHeight($(window).height()-$("#canvas").offset().top- Math.abs($("#canvas").outerHeight(true) - $("#canvas").outerHeight()));
+  }
+  $(document).ready(function(){
+    resize();
+    $(window).on("resize", function(){                      
+        resize();
+    });
+  });
+        </script>
+        
         <script type="text/javascript" src="./js/pacman.js"></script>
         <script type="text/javascript" src="./js/ghost.js"></script>
         <script type="text/javascript" src="./js/grid.js"></script>
