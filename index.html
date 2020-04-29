@@ -9,17 +9,17 @@
         <canvas id="myCanvas" align="center" width="510" height="510">
         </canvas>
         
-        <script>
-function resize(){    
-    $("#canvas").outerHeight($(window).height()-$("#canvas").offset().top- Math.abs($("#canvas").outerHeight(true) - $("#canvas").outerHeight()));
-  }
-  $(document).ready(function(){
-    resize();
-    $(window).on("resize", function(){                      
-        resize();
-    });
-  });
-        </script>
+        <style>
+            
+    canvas {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 510px;
+    }
+        </style>
         
         <script type="text/javascript" src="./js/pacman.js"></script>
         <script type="text/javascript" src="./js/ghost.js"></script>
