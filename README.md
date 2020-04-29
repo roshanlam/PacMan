@@ -41,3 +41,8 @@
 			 * Press G at start screen to enter GOD MODE. *
 			 * (You didn't hear it from us.)              *
 			 **********************************************
+
+
+## To-DO
+
+[ ]- Make a Desktop Verison of This Game
