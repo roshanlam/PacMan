@@ -1,5 +1,5 @@
 //////////////////////////////////////////////////////
-// Group members: Zi Wang (ziw), Bingying Xia(bxia) //
+//            Developer: Roshan Lamichhane          //
 //////////////////////////////////////////////////////
 
 function Ghost(xCord, yCord, gColor, direction){
