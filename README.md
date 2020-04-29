@@ -45,4 +45,4 @@
 
 ## To-DO
 
-[ ] - Make a Desktop Verison of This Game
+[] - Make a Desktop Verison of This Game
